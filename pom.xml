@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.report</groupId>
-	<artifactId>report-service-tdd</artifactId>
+	<artifactId>report-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>report-service-tdd</name>
